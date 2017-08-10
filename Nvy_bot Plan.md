@@ -8,6 +8,7 @@ Nvybot will be a pure Javascript bot using Discordjs.
 
 - Up and ready Msg
 - Connection Lost (error) Msg
+- RichEmbed Message Returns
 
 ## Administration
 - Create Room
@@ -16,7 +17,6 @@ Nvybot will be a pure Javascript bot using Discordjs.
 - Change Voice Channel Name
 - Post Server Message
 - Announce New Member
-
 - Mute member
 - Assign "set" non-functional roles
 - Track Server Points
