@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# NVY BOT  
 
-You can use the [editor on GitHub](https://github.com/NvyMax/nvybot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##  About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nvy bot is a pure JavaScript Discord bot created using the Discord.js API.  Nvybot is the evolved and public version of Incredibot that I created for personal use back in March of 2017 but never finished coding. 
 
-### Markdown
+## Why 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I began working on Incredibot because at the time there were a bunch of bots that had a bunch of functionality built with languages I didn't understand.  A lot of them didn't have the functions I wanted for my guild at the time which is what prompted me to become a developer and actually "learn" coding instead of just interations of manipulating things that other people were doing. Nvybot is my new-to-bot-building love child. <3
 
-```markdown
-Syntax highlighted code block
+##Functionality
 
-# Header 1
-## Header 2
-### Header 3
+Check out the roadmap for functionality and info on how I'm progressing
 
-- Bulleted
-- List
+        #Music
+        #Welcome
+        #Participation (Rankings)
+        #Chat_her (Using Alexia?)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NvyMax/nvybot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
