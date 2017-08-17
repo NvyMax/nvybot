@@ -17,3 +17,40 @@ Check out the roadmap for functionality and info on how I'm progressing
         #### Participation (Rankings)
         #### Chat_her (Using Alexia?)
 
+## High Level Functionality
+
+General Permissions
+Select Non-Administrative
+Administrator
+Manage Roles
+Kick Members
+Create Instant Invite
+Manage Nicknames
+Manage Server
+Manage Channels
+Ban Members
+Change Nickname
+Manage Webhooks
+Manage Emojis
+View Audit Log
+Text Permissions
+Select Non-Administrative
+Read Messages
+Send TTS Messages
+Embed Links
+Read Message History
+Use External Emojis
+Send Messages
+Manage Messages
+Attach Files
+Mention Everyone
+Add Reactions
+Voice Permissions
+Select Non-Administrative
+Connect
+Mute Members
+Move Members
+Speak
+Deafen Members
+Use Voice Activity
+Permissions highlighted in orange require that the bot owner has two factor authentication enabled.
